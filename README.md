@@ -1,4 +1,4 @@
-Olá! Esse projeto foi desenvolvido como pessoal para atividades da faculdade
+Olá! Esse projeto foi desenvolvido para atividades do 1º ano da faculdade
 
 Nele construí um site utilizando HTML e CSS :)
 
